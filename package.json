@@ -46,6 +46,7 @@
     "@fortawesome/free-regular-svg-icons": "5.15.4",
     "@fortawesome/free-solid-svg-icons": "5.15.4",
     "@fortawesome/react-fontawesome": "0.2.6",
+    "@minhduchg454/cusc-custom-brand": "^1.0.10",
     "@openedx/paragon": "^23.14.9",
     "@tanstack/react-query": "^5.90.5",
     "classnames": "^2.5.1",
